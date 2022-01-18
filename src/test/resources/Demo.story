@@ -7,5 +7,5 @@ So that I can search for my blogs
 
 Scenario: DEMO Test
 Given I open Google
-!-- When I do something
-!-- Then system is in a different state
+When I search for my blogs
+Then I assert the URL
