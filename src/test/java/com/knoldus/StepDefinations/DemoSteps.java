@@ -1,4 +1,4 @@
-package com.knoldus;
+package com.knoldus.StepDefinations;
 
 import org.jbehave.core.annotations.Given;
 import org.jbehave.core.annotations.Then;

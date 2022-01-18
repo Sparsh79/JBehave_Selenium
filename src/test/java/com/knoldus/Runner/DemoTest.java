@@ -1,5 +1,6 @@
-package com.knoldus;
+package com.knoldus.Runner;
 
+import com.knoldus.StepDefinations.DemoSteps;
 import org.jbehave.core.configuration.Configuration;
 import org.jbehave.core.configuration.MostUsefulConfiguration;
 import org.jbehave.core.io.LoadFromClasspath;
